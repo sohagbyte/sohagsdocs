@@ -2,6 +2,6 @@
 
 ## Networking And Data Communication
 
-[What is IP address](https://github.com/sohagbyte/sohagsdocs/blob/main/ip.md)
+- [Data Communication and it's 4 Main Characteristics](https://github.com/sohagbyte/sohagsdocs/blob/main/Blogs/Data%20Communication%20and%20its%204%20characteristics.md)
 
 ## Cyber Security
